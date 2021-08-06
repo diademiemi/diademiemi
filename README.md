@@ -16,14 +16,14 @@
             <a href="mailto:emilia@diademiemi.me" style="text-decoration: none;">
                 <img src="https://img.shields.io/badge/-Email-black?style=flat&logo=Microsoft-Outlook" alt="Email">
             </a>
-            <a href="https://discordapp.com/users/295273085236412417" style="text-decoration: none;">
-                <img src="https://img.shields.io/badge/-Discord-black?style=flat&logo=Discord" alt="Discord">
-            </a>
             <a href="https://t.me/diademiemi" style="text-decoration: none;">
                 <img src="https://img.shields.io/badge/-Telegram-black?style=flat&logo=Telegram" alt="Telegram">
             </a>
             <a href="https://matrix.to/#/@diademiemi:matrix.org" style="text-decoration: none;">
                 <img src="https://img.shields.io/badge/-Matrix-black?style=flat&logo=Element" alt="Matrix">
+            </a>
+            <a href="https://discordapp.com/users/295273085236412417" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/-Discord-black?style=flat&logo=Discord" alt="Discord">
             </a>
     </P>
 </div>
