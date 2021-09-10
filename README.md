@@ -19,7 +19,7 @@
             <a href="https://t.me/diademiemi" style="text-decoration: none;">
                 <img src="https://img.shields.io/badge/-Telegram-black?style=flat&logo=Telegram" alt="Telegram">
             </a>
-            <a href="https://matrix.to/#/@diademiemi:matrix.org" style="text-decoration: none;">
+            <a href="https://matrix.to/#/@emilia:dia.gay" style="text-decoration: none;">
                 <img src="https://img.shields.io/badge/-Matrix-black?style=flat&logo=Element" alt="Matrix">
             </a>
             <a href="https://discordapp.com/users/295273085236412417" style="text-decoration: none;">
