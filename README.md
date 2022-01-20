@@ -1,5 +1,11 @@
-<img src="img/CurlyBracketTrans.png" align="left" width="100" height="600" />
-<img src="img/CurlyBracketTransRight(s).png" align="right" width="100" height="600" />
+<div>
+    <a>
+        <img src="img/CurlyBracketTrans.png" align="left" width="100" height="600" />
+    </a>
+    <a>
+        <img src="img/CurlyBracketTransRight(s).png" align="right" width="100" height="600" />
+    </a>
+</div>
 
 
 <h1 align=center>
