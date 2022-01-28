@@ -1,9 +1,9 @@
 <div>
     <a>
-        <img src="img/CurlyBracketTrans.png" align="left" width="100" height="600" />
+        <img src="img/CurlyBracketTrans.png" align="left" width="80" height="600" />
     </a>
     <a>
-        <img src="img/CurlyBracketTransRight(s).png" align="right" width="100" height="600" />
+        <img src="img/CurlyBracketTransRight(s).png" align="right" width="80" height="600" />
     </a>
 </div>
 
@@ -35,7 +35,7 @@ Hi there 👋😎, I'm DiaDemiEmi
             </a>
     </p>
     <p href="https://github-readme-stats.vercel.app/api/top-langs/?username=diademiemi&langs_count=6&exclude_repo=cfg,Hide-Discord-Notices&layout=compact&title_color=f5a9b8&text_color=ffffff&bg_color=202020&border_radius=10">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diademiemi&langs_count=6&exclude_repo=cfg,Hide-Discord-Notices&layout=compact&title_color=f5a9b8&text_color=ffffff&bg_color=202020&border_radius=10" width="400" height="200">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diademiemi&langs_count=6&exclude_repo=cfg,Hide-Discord-Notices&layout=compact&title_color=f5a9b8&text_color=ffffff&bg_color=202020&border_radius=10" width="375" height="200">
     </p>
 
 </div>
