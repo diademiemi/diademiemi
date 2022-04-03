@@ -1,12 +1,3 @@
-<div>
-    <a>
-        <img src="img/CurlyBracketTrans.png" align="left" width="80" height="600" />
-    </a>
-    <a>
-        <img src="img/CurlyBracketTransRight(s).png" align="right" width="80" height="600" />
-    </a>
-</div>
-
 
 <h1 align=center>
 Hi there 👋😎, I'm DiaDemiEmi
