@@ -58,6 +58,6 @@ jobs:
             android_kernel_samsung_gta8wifi, diademiemi, twrp_device_samsung_a50, twrp_device_samsung_gta8wifi
           plugin_languages_threshold: '1%'
           plugin_languages_indepth: no
-          plugin_languages_details: lines, bytes-size
+          plugin_languages_details: percentage
           plugin_languages_limit: 6
           plugin_languages_analysis_timeout: 15
