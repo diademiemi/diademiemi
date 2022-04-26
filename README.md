@@ -9,10 +9,10 @@
 </br>
 <div>
     <a>
-        <img src="https://raw.githubusercontent.com/diademiemi/diademiemi/main/metrics.plugin.activity.svg" align="right" width="500">
+        <img src="https://raw.githubusercontent.com/diademiemi/diademiemi/main/metrics.plugin.activity.svg" align="right" width="400">
     </a>
     <a>
-        <img src="https://raw.githubusercontent.com/diademiemi/diademiemi/main/metrics.plugin.isocalendar.fullyear.svg" align="left" width="450" />
+        <img src="https://raw.githubusercontent.com/diademiemi/diademiemi/main/metrics.plugin.isocalendar.fullyear.svg" align="left" width="400" />
     </a>
 </div>
 
