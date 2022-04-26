@@ -11,7 +11,7 @@ public class Me {
     pronouns[1] = "She/Her";
     
     TimeZone tz = TimeZone
-                  .getTimeZone("Europe/Amsterdam");
+        .getTimeZone("Europe/Amsterdam");
     
     public String pronounceGIF() {
         return "χɪf";
