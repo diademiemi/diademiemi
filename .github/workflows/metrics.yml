@@ -45,27 +45,3 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-      - name: Half-year calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.isocalendar.halfyear.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-      - name: Languages
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_ignored: >-
-            makefile, qmake, cmake
-          plugin_languages_skipped: >-
-            android_kernel_samsung_gta8wifi, diademiemi, twrp_device_samsung_a50, twrp_device_samsung_gta8wifi
-          plugin_languages_threshold: '1%'
-          plugin_languages_indepth: no
-          plugin_languages_details: percentage
-          plugin_languages_limit: 6
-          plugin_languages_analysis_timeout: 15
