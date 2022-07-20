@@ -2,22 +2,18 @@
 
 ```kotlin
 object Me {
-
     val names = arrayOf(
-        "Emilia", "Jasmine"
-    )
+        "Emilia", "Jasmine")
 
     val pronouns = arrayOf(
-        "They/Them", "She/Her"
-    )
+        "They/Them", "She/Her")
 
     val tz = TimeZone.
         getTimeZone("Europe/Amsterdam")
 
     fun pronounceGIF(): String {
         val pronunciations = arrayOf(
-            "χɪf", "Gif", "Jif", "Yif"
-        )
+            "χɪf", "Gif", "Jif", "Yif")
         return pronunciations[Random()
             .nextInt(pronunciations.size)]
     }
