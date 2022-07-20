@@ -1,23 +1,28 @@
  <img src="https://raw.githubusercontent.com/diademiemi/diademiemi/main/github-metrics.svg" align="left" alt="About me" title="About me" width="500" />
 
-```java
-import java.util.*;
+```kotlin
+object Me {
 
-public class Me {
-    String name = "Emilia";
-        
-    String[] pronouns = new String[2];
-    pronouns[0] = "They/Them";
-    pronouns[1] = "She/Her";
-    
-    TimeZone tz = TimeZone
-        .getTimeZone("Europe/Amsterdam");
-    
-    public String pronounceGIF() {
-        return "χɪf";
+    val names = arrayOf(
+        "Emilia", "Jasmine"
+    )
+
+    val pronouns = arrayOf(
+        "They/Them", "She/Her"
+    )
+
+    val tz = TimeZone.
+        getTimeZone("Europe/Amsterdam")
+
+    fun pronounceGIF(): String {
+        val pronunciations = arrayOf(
+            "χɪf", "Gif", "Jif", "Yif"
+        )
+        return pronunciations[Random()
+            .nextInt(pronunciations.size)]
     }
-    
 }
+
 ```
 
 </br>
