@@ -39,11 +39,11 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#79 Rule module</span>
+                                        <span class="issue">#137 Prepare release 0.9.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">tribe29/ansible-collection-tribe29.checkmk</span></div>
+                                    <div>opened by robin-tribe29 in <span class="repo">tribe29/ansible-collection-tribe29.checkmk</span></div>
                                 </div>
                             </section>
                         </div>
@@ -87,7 +87,7 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#132 Make SSL verification a boolean</span>
+                                        <span class="issue">#79 Rule module</span>
                                     </div>
                                 </div>
                                 <div class="details">
