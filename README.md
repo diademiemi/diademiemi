@@ -1,4 +1,5 @@
- <img src="https://raw.githubusercontent.com/diademiemi/diademiemi/main/github-metrics.svg" align="left" alt="About me" title="About me" width="500" />
+<a rel="me" href="https://tech.lgbt/@DiaDemiEmi"></a>
+<img src="https://raw.githubusercontent.com/diademiemi/diademiemi/main/github-metrics.svg" align="left" alt="About me" title="About me" width="500" />
 
 ```kotlin
 object Me {
@@ -31,10 +32,3 @@ object Me {
         <img src="https://raw.githubusercontent.com/diademiemi/diademiemi/main/metrics.plugin.isocalendar.fullyear.svg" align="left" width="400" />
     </a>
 </div>
-
-
-
-
-
-
-
