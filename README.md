@@ -1,4 +1,4 @@
-<a rel="me" href="https://tech.lgbt/@DiaDemiEmi"></a>
+<a rel="me" href="https://tech.lgbt/@DiaDemiEmi"> </a>
 <img src="https://raw.githubusercontent.com/diademiemi/diademiemi/main/github-metrics.svg" align="left" alt="About me" title="About me" width="500" />
 
 ```kotlin
