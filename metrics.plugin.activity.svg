@@ -26,7 +26,7 @@
                       branch
                                         <span class="code">main</span>
                                         in
-                                        <span class="repo">diademiemi/ansible-content</span>
+                                        <span class="repo">diademiemi/ansible_role_rpmfusion</span>
                                     </div>
                                 </div>
                             </section>
@@ -40,7 +40,7 @@
                                     <div class="content">
                                         Created new
                       repository
-                                        <span class="repo">diademiemi/ansible-content</span>
+                                        <span class="repo">diademiemi/ansible_role_rpmfusion</span>
                                     </div>
                                 </div>
                             </section>
@@ -56,7 +56,7 @@
                       branch
                                         <span class="code">main</span>
                                         in
-                                        <span class="repo">diademiemi/ansible_collection_diademiemi.ansible_utils</span>
+                                        <span class="repo">diademiemi/ansible_collection_diademiemi.linux_desktop</span>
                                     </div>
                                 </div>
                             </section>
@@ -70,7 +70,7 @@
                                     <div class="content">
                                         Created new
                       repository
-                                        <span class="repo">diademiemi/ansible_collection_diademiemi.ansible_utils</span>
+                                        <span class="repo">diademiemi/ansible_collection_diademiemi.linux_desktop</span>
                                     </div>
                                 </div>
                             </section>
@@ -86,7 +86,7 @@
                       branch
                                         <span class="code">main</span>
                                         in
-                                        <span class="repo">diademiemi/ansible_collection_diademiemi.foreman</span>
+                                        <span class="repo">diademiemi/ansible_collection_diademiemi.valve</span>
                                     </div>
                                 </div>
                             </section>
